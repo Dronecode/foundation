@@ -1,7 +1,7 @@
 # Dronecode Foundation Bylaws and Legal Documents
 
 * [Droneocde Foundation Bylaws](https://www.dronecode.org/bylaws/)
-* Dronecode Foundation Code of Conduct
+* [Dronecode Foundation Code of Conduct](CODE-OF-CONDUCT.md)
 
 # Membership Documents
 * [Dronecode Foundation Membership](https://www.dronecode.org/membership/)
